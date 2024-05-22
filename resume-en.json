@@ -1,0 +1,146 @@
+{
+  "basics":{
+     "name":"gBoole01",
+     "label":"Full Stack Developer",
+     "image":"https://g-boole-01.com/images/g-boole-01-avatar.png",
+     "email":"notAvailableForPrivacyReasons",
+     "phone":"notAvailableForPrivacyReasons",
+     "url":"https://g-boole-01.com",
+     "summary": "Passionate developer with expertise in new technologies and Opquast certification, equipped with managerial skills. Enjoys implementing and maintaining good development practices. Also places great importance on web quality.",
+     "location":{
+        "address":"Somewhere",
+        "postalCode":"33000",
+        "city":"Bordeaux",
+        "countryCode":"FR",
+        "region":"Nouvelle-Aquitaine"
+     },
+     "profiles":[
+        {
+           "network":"GitHub",
+           "username":"gBoole01",
+           "url":"https://github.com/gBoole01"
+        }
+     ]
+  },
+  "work":[
+      {
+        "name":"Mon courtier énergie",
+        "position":"Full Stack Developer",
+        "url":"TODO!",
+        "startDate":"2023-03-01",
+        "endDate": null,
+        "summary":"TODO!",
+        "highlights":[
+          "TODO!"
+        ]
+      },
+     {
+        "name":"Kaizen Agency",
+        "position":"Full Stack Developer",
+        "url":"TODO!",
+        "startDate":"2021-01-01",
+        "endDate":"2022-01-01",
+        "summary":"TODO!",
+        "highlights":[
+           "Maintenance and development of new features for a restaurant booking application and CRM system in JavaScript (MEAN stack)",
+           "Upgraded a Prestashop website (1.7) and its dedicated modules using the CQRS pattern (referral, presentation of wineries, private sales, etc.)",
+           "Maintenance and development of PrestaShop modules on various e-commerce websites",
+           "Maintenance and development of WordPress modules on different websites (real estate group, merchants, etc.)"
+        ]
+     },
+     {
+        "name":"Agence Bonbay",
+        "position":"Full Stack Developer",
+        "url":"TODO!",
+        "startDate":"2020-03-01",
+        "endDate":"2020-01-01",
+        "summary":"TODO",
+        "highlights":[
+           "Developed a PHP/JavaScript application for real-time tracking of sports competition results",
+           "Developed WordPress modules for a sports association website, including user profile creation, membership management, and license payment"
+        ]
+     },
+     {
+      "name":"McDonald's",
+      "position":"Shift Manager",
+      "url":"TODO!",
+      "startDate":"2016-01-01",
+      "endDate":"2018-01-01",
+      "summary":"TODO",
+      "highlights":[
+        "Training, motivating, and supervising a team",
+        "Managing restaurant openings and closings",
+        "Ensuring product and service quality",
+        "Ensuring customer satisfaction",
+        "Ensuring process compliance",
+        "Ensuring the cleanliness of the restaurant"
+      ]
+   }
+  ],
+  "education":[
+     {
+        "institution":"TODO!",
+        "url":"TODO!",
+        "area":"Software Development",
+        "studyType":"Bachelor",
+        "startDate":"2020-01-01",
+        "endDate":"2020-01-01",
+        "score":"TODO!",
+        "courses":[
+           "TODO!"
+        ]
+     },
+     {
+      "institution":"TODO!",
+      "url":"TODO!",
+      "area":"Communication and Marketing",
+      "studyType":"TODO!",
+      "startDate":"2012-01-01",
+      "endDate":"2012-01-01",
+      "score":"TODO!",
+      "courses":[
+         "TODO!"
+      ]
+   }
+  ],
+  "certificates":[
+     {
+        "name":"Web Quality Certificate",
+        "date":"2012-01-01",
+        "issuer":"TODO!",
+        "url":"TODO!"
+     }
+  ],
+  "skills":[
+     {
+        "name":"Web Development",
+        "level":"Master",
+        "keywords":[
+           "HTML",
+           "CSS",
+           "JavaScript"
+        ]
+     }
+  ],
+  "languages":[
+    {
+      "language":"French",
+      "fluency":"Native speaker"
+    },
+    {
+      "language":"English",
+      "fluency":"Fluent"
+    },
+    {
+      "language":"Spanish",
+      "fluency":"Elementary"
+    }
+  ],
+  "interests":[
+     {
+        "name":"TODO!",
+        "keywords":[
+           "TODO!"        ]
+     }
+  ]
+}

@@ -14,4 +14,4 @@ jobs:
       with:
         token: ${{ secrets.TOKEN }}
         gist_id: ${{ secrets.GIST_ID }}
-        file_path: resume-en.json
+        file_path: resume.json

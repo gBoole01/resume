@@ -37,7 +37,7 @@
       {
          "name": "Kaizen Agency",
          "position": "Full Stack Developer",
-         "url": "TODO!",
+         "url": "https://www.kaizen-agency.fr/",
          "startDate": "2021-01-01",
          "endDate": "2022-01-01",
          "summary": "TODO!",
@@ -51,7 +51,7 @@
       {
          "name": "Agence Bonbay",
          "position": "Full Stack Developer",
-         "url": "TODO!",
+         "url": "https://www.bonbay.fr/",
          "startDate": "2020-03-01",
          "endDate": "2020-01-01",
          "summary": "TODO",
@@ -131,7 +131,7 @@
          "institution": "Lycée de Borda",
          "url": "https://lyceedeborda.fr/",
          "area": "Communication and Marketing",
-         "studyType": "TODO!",
+         "studyType": "High School Diploma",
          "startDate": "2012-01-01",
          "endDate": "2012-01-01",
          "courses": [
@@ -165,6 +165,9 @@
          "name": "Front End Development",
          "level": "Advanced",
          "keywords": [
+            "SSR",
+            "SPA",
+            "PWA",
             "HTML",
             "CSS",
             "JavaScript",
@@ -183,6 +186,10 @@
          "name": "Back End Development",
          "level": "Advanced",
          "keywords": [
+            "Web Protocols",
+            "REST API",
+            "GraphQL",
+            "WebSockets",
             "Node.js",
             "Express",
             "Nest.js",
@@ -210,7 +217,8 @@
             "Prometheus",
             "Grafana",
             "Nginx",
-            "Apache"
+            "Apache",
+            "Virtual Machines"
          ]
       },
       {
@@ -220,6 +228,8 @@
             "Canva",
             "Figma",
             "Git",
+            "GitHub",
+            "GitLab",
             "VS Code",
             "Vim",
             "Zsh",
@@ -254,6 +264,16 @@
       {
          "language": "Spanish",
          "fluency": "Elementary"
+      }
+   ],
+   "projects": [
+      {
+         "name": "TODO!",
+         "startDate": "TODO!",
+         "endDate": "TODO!",
+         "description": "TODO!",
+         "highlights": [""],
+         "url": "TODO!"
       }
    ],
    "interests": [

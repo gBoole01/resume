@@ -88,6 +88,7 @@
          "courses": [
             "Web Development",
             "Mobile Development",
+            "UML",
             "Software Architecture",
             "Test Driven Development",
             "Project Management",
@@ -153,6 +154,28 @@
       }
    ],
    "skills": [
+      {
+         "name": "Soft Skills",
+         "level": "N/A",
+         "keywords": [
+            "TODO!"
+         ]
+      },
+      {
+         "name": "Web Quality",
+         "level": "Expert",
+         "keywords": [
+            "Opquast",
+            "SEO",
+            "Accessibility",
+            "Performance",
+            "Security",
+            "Privacy",
+            "Compatibility",
+            "Maintainability",
+            "Best Practices"
+         ]
+      },
       {
          "name": "CMS",
          "level": "Upper Intermediate",
@@ -223,7 +246,7 @@
       },
       {
          "name": "Tools",
-         "level": "Intermediate",
+         "level": "Advanced",
          "keywords": [
             "Canva",
             "Figma",

@@ -1,146 +1,295 @@
 {
-  "basics":{
-     "name":"gBoole01",
-     "label":"Full Stack Developer",
-     "image":"https://g-boole-01.com/images/g-boole-01-avatar.png",
-     "email":"notAvailableForPrivacyReasons",
-     "phone":"notAvailableForPrivacyReasons",
-     "url":"https://g-boole-01.com",
-     "summary": "Passionate developer with expertise in new technologies and Opquast certification, equipped with managerial skills. Enjoys implementing and maintaining good development practices. Also places great importance on web quality.",
-     "location":{
-        "address":"Somewhere",
-        "postalCode":"33000",
-        "city":"Bordeaux",
-        "countryCode":"FR",
-        "region":"Nouvelle-Aquitaine"
-     },
-     "profiles":[
-        {
-           "network":"GitHub",
-           "username":"gBoole01",
-           "url":"https://github.com/gBoole01"
-        }
-     ]
-  },
-  "work":[
-      {
-        "name":"Mon courtier énergie",
-        "position":"Full Stack Developer",
-        "url":"TODO!",
-        "startDate":"2023-03-01",
-        "endDate": null,
-        "summary":"TODO!",
-        "highlights":[
-          "TODO!"
-        ]
+   "basics": {
+      "name": "gBoole01",
+      "label": "Full Stack Developer",
+      "image": "https://g-boole-01.com/images/g-boole-01-avatar.png",
+      "email": null,
+      "phone": null,
+      "url": "https://g-boole-01.com",
+      "summary": "Passionate developer with expertise in new technologies and Opquast certification, equipped with managerial skills. Enjoys implementing and maintaining good development practices. Also places great importance on web quality.",
+      "location": {
+         "address": "Somewhere",
+         "postalCode": "33000",
+         "city": "Bordeaux",
+         "countryCode": "FR",
+         "region": "Nouvelle-Aquitaine"
       },
-     {
-        "name":"Kaizen Agency",
-        "position":"Full Stack Developer",
-        "url":"TODO!",
-        "startDate":"2021-01-01",
-        "endDate":"2022-01-01",
-        "summary":"TODO!",
-        "highlights":[
-           "Maintenance and development of new features for a restaurant booking application and CRM system in JavaScript (MEAN stack)",
-           "Upgraded a Prestashop website (1.7) and its dedicated modules using the CQRS pattern (referral, presentation of wineries, private sales, etc.)",
-           "Maintenance and development of PrestaShop modules on various e-commerce websites",
-           "Maintenance and development of WordPress modules on different websites (real estate group, merchants, etc.)"
-        ]
-     },
-     {
-        "name":"Agence Bonbay",
-        "position":"Full Stack Developer",
-        "url":"TODO!",
-        "startDate":"2020-03-01",
-        "endDate":"2020-01-01",
-        "summary":"TODO",
-        "highlights":[
-           "Developed a PHP/JavaScript application for real-time tracking of sports competition results",
-           "Developed WordPress modules for a sports association website, including user profile creation, membership management, and license payment"
-        ]
-     },
-     {
-      "name":"McDonald's",
-      "position":"Shift Manager",
-      "url":"TODO!",
-      "startDate":"2016-01-01",
-      "endDate":"2018-01-01",
-      "summary":"TODO",
-      "highlights":[
-        "Training, motivating, and supervising a team",
-        "Managing restaurant openings and closings",
-        "Ensuring product and service quality",
-        "Ensuring customer satisfaction",
-        "Ensuring process compliance",
-        "Ensuring the cleanliness of the restaurant"
+      "profiles": [
+         {
+            "network": "GitHub",
+            "username": "gBoole01",
+            "url": "https://github.com/gBoole01"
+         }
       ]
-   }
-  ],
-  "education":[
-     {
-        "institution":"TODO!",
-        "url":"TODO!",
-        "area":"Software Development",
-        "studyType":"Bachelor",
-        "startDate":"2020-01-01",
-        "endDate":"2020-01-01",
-        "score":"TODO!",
-        "courses":[
-           "TODO!"
-        ]
-     },
-     {
-      "institution":"TODO!",
-      "url":"TODO!",
-      "area":"Communication and Marketing",
-      "studyType":"TODO!",
-      "startDate":"2012-01-01",
-      "endDate":"2012-01-01",
-      "score":"TODO!",
-      "courses":[
-         "TODO!"
-      ]
-   }
-  ],
-  "certificates":[
-     {
-        "name":"Web Quality Certificate",
-        "date":"2012-01-01",
-        "issuer":"TODO!",
-        "url":"TODO!"
-     }
-  ],
-  "skills":[
-     {
-        "name":"Web Development",
-        "level":"Master",
-        "keywords":[
-           "HTML",
-           "CSS",
-           "JavaScript"
-        ]
-     }
-  ],
-  "languages":[
-    {
-      "language":"French",
-      "fluency":"Native speaker"
-    },
-    {
-      "language":"English",
-      "fluency":"Fluent"
-    },
-    {
-      "language":"Spanish",
-      "fluency":"Elementary"
-    }
-  ],
-  "interests":[
-     {
-        "name":"TODO!",
-        "keywords":[
-           "TODO!"        ]
-     }
-  ]
+   },
+   "work": [
+      {
+         "name": "Mon courtier énergie",
+         "position": "Full Stack Developer",
+         "url": "https://www.moncourtierenergie.com/",
+         "startDate": "2023-03-01",
+         "endDate": null,
+         "summary": "TODO!",
+         "highlights": [
+            "TODO!"
+         ]
+      },
+      {
+         "name": "Kaizen Agency",
+         "position": "Full Stack Developer",
+         "url": "TODO!",
+         "startDate": "2021-01-01",
+         "endDate": "2022-01-01",
+         "summary": "TODO!",
+         "highlights": [
+            "Maintenance and development of new features for a restaurant booking application and CRM system in JavaScript (MEAN stack)",
+            "Upgraded a Prestashop website (1.7) and its dedicated modules using the CQRS pattern (referral, presentation of wineries, private sales, etc.)",
+            "Maintenance and development of PrestaShop modules on various e-commerce websites",
+            "Maintenance and development of WordPress modules on different websites (real estate group, merchants, etc.)"
+         ]
+      },
+      {
+         "name": "Agence Bonbay",
+         "position": "Full Stack Developer",
+         "url": "TODO!",
+         "startDate": "2020-03-01",
+         "endDate": "2020-01-01",
+         "summary": "TODO",
+         "highlights": [
+            "Developed a PHP/JavaScript application for real-time tracking of sports competition results",
+            "Developed WordPress modules for a sports association website, including user profile creation, membership management, and license payment"
+         ]
+      },
+      {
+         "name": "McDonald's",
+         "position": "Shift Manager",
+         "url": "https://www.mcdonalds.fr/",
+         "startDate": "2016-01-01",
+         "endDate": "2018-01-01",
+         "summary": "TODO",
+         "highlights": [
+            "Training, motivating, and supervising a team",
+            "Managing restaurant openings and closings",
+            "Ensuring product and service quality",
+            "Ensuring customer satisfaction",
+            "Ensuring process compliance",
+            "Ensuring the cleanliness of the restaurant"
+         ]
+      }
+   ],
+   "education": [
+      {
+         "institution": "CESI",
+         "url": "https://www.cesi.fr/",
+         "area": "Software Development",
+         "studyType": "Bachelor's degree",
+         "startDate": "2023-01-01",
+         "endDate": "2024-01-01",
+         "courses": [
+            "Web Development",
+            "Mobile Development",
+            "Software Architecture",
+            "Test Driven Development",
+            "Project Management",
+            "Quality Assurance",
+            "Cybersecurity",
+            "DevOps",
+            "Agile Methodologies",
+            "Soft Skills"
+         ]
+      },
+      {
+         "institution": "Talis Business School",
+         "url": "https://www.talis.community/",
+         "area": "Software Development",
+         "studyType": "Two-year technical degree",
+         "startDate": "2020-01-01",
+         "endDate": "2020-01-01",
+         "courses": [
+            "Web Design",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "SQL",
+            "Apache",
+            "WordPress"
+         ]
+      },
+      {
+         "institution": "Self-tuition",
+         "url": "https://google.com/",
+         "area": "Software Development",
+         "studyType": "Self-tuition",
+         "startDate": "2028-01-01",
+         "endDate": "while (age++ < life.length) { knowledge++ };",
+         "courses": [
+            "TODO!"
+         ]
+      },
+      {
+         "institution": "Lycée de Borda",
+         "url": "https://lyceedeborda.fr/",
+         "area": "Communication and Marketing",
+         "studyType": "TODO!",
+         "startDate": "2012-01-01",
+         "endDate": "2012-01-01",
+         "courses": [
+            "Communication",
+            "Marketing",
+            "Management",
+            "Business Law",
+            "English",
+            "Spanish"
+         ]
+      }
+   ],
+   "certificates": [
+      {
+         "name": "Web Quality",
+         "date": "20-01-01",
+         "issuer": "Opquast",
+         "url": "https://opquast.com/"
+      }
+   ],
+   "skills": [
+      {
+         "name": "CMS",
+         "level": "Upper Intermediate",
+         "keywords": [
+            "WordPress",
+            "PrestaShop"
+         ]
+      },
+      {
+         "name": "Front End Development",
+         "level": "Advanced",
+         "keywords": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Angular",
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Sass",
+            "AntDesign",
+            "Material-UI"
+         ]
+      },
+      {
+         "name": "Back End Development",
+         "level": "Advanced",
+         "keywords": [
+            "Node.js",
+            "Express",
+            "Nest.js",
+            "PHP",
+            "Symfony"
+         ]
+      },
+      {
+         "name": "Databases",
+         "level": "Advanced",
+         "keywords": [
+            "MySQL",
+            "MongoDB",
+            "Redis"
+         ]
+      },
+      {
+         "name": "DevOps",
+         "level": "Intermediate",
+         "keywords": [
+            "Linux",
+            "Docker",
+            "GitHub Actions",
+            "GitLab CI/CD",
+            "Prometheus",
+            "Grafana",
+            "Nginx",
+            "Apache"
+         ]
+      },
+      {
+         "name": "Tools",
+         "level": "Intermediate",
+         "keywords": [
+            "Canva",
+            "Figma",
+            "Git",
+            "VS Code",
+            "Vim",
+            "Zsh",
+            "Postman",
+            "Swagger",
+            "ESLint",
+            "Prettier",
+            "Jest",
+            "Cypress",
+            "DependaBot"
+         ]
+      },
+      {
+         "name": "Methodologies",
+         "level": "Advanced",
+         "keywords": [
+            "Agile",
+            "Scrum",
+            "Kanban"
+         ]
+      }
+   ],
+   "languages": [
+      {
+         "language": "French",
+         "fluency": "Native speaker"
+      },
+      {
+         "language": "English",
+         "fluency": "Fluent"
+      },
+      {
+         "language": "Spanish",
+         "fluency": "Elementary"
+      }
+   ],
+   "interests": [
+      {
+         "name": "Music",
+         "keywords": [
+            "Computer music",
+            "EDM"
+         ]
+      },
+      {
+         "name": "Sport",
+         "keywords": [
+            "Cycling",
+            "Running"
+         ]
+      },
+      {
+         "name": "Reading",
+         "keywords": [
+            "Programming books"
+         ]
+      },
+      {
+         "name": "Technology",
+         "keywords": [
+            "New technologies",
+            "Artificial intelligence",
+            "Big data"
+         ]
+      },
+      {
+         "name": "Travel",
+         "keywords": [
+            "Europe"
+         ]
+      }
+   ]
 }

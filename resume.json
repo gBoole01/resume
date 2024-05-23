@@ -29,9 +29,11 @@
          "url": "https://www.moncourtierenergie.com/",
          "startDate": "2023-03-01",
          "endDate": null,
-         "summary": "TODO!",
+         "summary": "I facilitated the transformation of Salesforce data to enhance the digital customer experience. Concurrently, I manage AWS operations and maintain company websites, ensuring seamless functionality and performance across divisions.",
          "highlights": [
-            "TODO!"
+            "Transformed Salesforce company data using the MERN stack to enhance the digital customer experience.",
+            "Implemented DevOps practices for improved observability and automation.",
+            "Managed AWS operations and maintained company websites, ensuring seamless functionality and performance."
          ]
       },
       {
@@ -40,7 +42,7 @@
          "url": "https://www.kaizen-agency.fr/",
          "startDate": "2021-01-01",
          "endDate": "2022-01-01",
-         "summary": "TODO!",
+         "summary": "Led maintenance and feature development for a restaurant booking application and CRM system utilizing the MEAN stack, while implementing CQRS pattern upgrades for a Prestashop website and developing custom modules for CMS websites across various industries.",
          "highlights": [
             "Maintenance and development of new features for a restaurant booking application and CRM system in JavaScript (MEAN stack)",
             "Upgraded a Prestashop website (1.7) and its dedicated modules using the CQRS pattern (referral, presentation of wineries, private sales, etc.)",
@@ -52,9 +54,9 @@
          "name": "Agence Bonbay",
          "position": "Full Stack Developer",
          "url": "https://www.bonbay.fr/",
-         "startDate": "2020-03-01",
-         "endDate": "2020-01-01",
-         "summary": "TODO",
+         "startDate": "2020-01-01",
+         "endDate": "2020-03-01",
+         "summary": "Crafted a responsive and reactive user interface for real-time sports competition tracking software and customized WordPress modules, optimizing user experience and administrative efficiency for a sports association website.",
          "highlights": [
             "Developed a PHP/JavaScript application for real-time tracking of sports competition results",
             "Developed WordPress modules for a sports association website, including user profile creation, membership management, and license payment"
@@ -66,7 +68,7 @@
          "url": "https://www.mcdonalds.fr/",
          "startDate": "2016-01-01",
          "endDate": "2018-01-01",
-         "summary": "TODO",
+         "summary": "Demonstrated strong leadership and organizational skills while overseeing daily operations, ensuring optimal customer service and team efficiency in a fast-paced environment.",
          "highlights": [
             "Training, motivating, and supervising a team",
             "Managing restaurant openings and closings",
@@ -105,12 +107,13 @@
          "area": "Software Development",
          "studyType": "Two-year technical degree",
          "startDate": "2020-01-01",
-         "endDate": "2020-01-01",
+         "endDate": "2019-01-01",
          "courses": [
             "Web Design",
             "HTML",
             "CSS",
             "JavaScript",
+            "Bootstrap",
             "PHP",
             "SQL",
             "Apache",
@@ -125,7 +128,26 @@
          "startDate": "2028-01-01",
          "endDate": "while (age++ < life.length) { knowledge++ };",
          "courses": [
-            "TODO!"
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP",
+            "SQL",
+            "Node.js",
+            "Express",
+            "Nest.js",
+            "MongoDB",
+            "React",
+            "Angular",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Linux",
+            "SEO",
+            "Webdesign",
+            "Virtual Machines",
+            "Test Driven Development",
+            "Cypress"
          ]
       },
       {
@@ -158,14 +180,20 @@
          "name": "Soft Skills",
          "level": "N/A",
          "keywords": [
-            "TODO!"
-         ]
+            "Communication",
+            "Leadership",
+            "Teamwork",
+            "Adaptability",
+            "Problem-solving",
+            "Time Management",
+            "Attention to Detail",
+            "Critical Thinking"
+        ]
       },
       {
          "name": "Web Quality",
          "level": "Expert",
          "keywords": [
-            "Opquast",
             "SEO",
             "Accessibility",
             "Performance",
@@ -291,12 +319,176 @@
    ],
    "projects": [
       {
-         "name": "TODO!",
-         "startDate": "TODO!",
-         "endDate": "TODO!",
-         "description": "TODO!",
-         "highlights": [""],
-         "url": "TODO!"
+         "name": "Personal Website",
+         "startDate": "2023-01-01",
+         "endDate": "2023-01-01",
+         "description": "This is my personal website built with Next.js as a static site generator. It uses Markdown files to publish various content such as blog posts, projects, kata solutions, resume, and includes a contact form.",
+         "highlights": [
+            "Utilized Next.js as a static site generator (SSG)",
+            "Implemented Markdown file-based content management for publishing blog posts, projects, kata solutions, resume, etc.",
+            "Included a contact form for visitors to reach out"
+         ],
+         "url": "https://github.com/gBoole01/g-boole-01"
+      }, 
+      {
+         "name": "Job Scraper",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Job Scraper developed using JavaScript, Node.js, and Puppeteer. It automates job search by scraping job listings from various websites and consolidating them into a single JSON file.",
+         "highlights": [
+            "Automated job search on Indeed and LinkedIn for 'Web Developer' positions in Bordeaux and remote within France",
+            "Generated a JSON file containing all job listings collected within the last 7 days"
+         ],
+         "url": "https://github.com/gBoole01/node-puppeteer-job-scraper"
+      },     
+      {
+         "name": "Blog API",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Blog API developed using TypeScript and Express. It allows users to publish articles in an authenticated manner and read articles from other authors.",
+         "highlights": [
+            "Implemented user authentication and article publication functionality",
+            "Utilized TypeScript for strong typing and Express framework for server-side development"
+         ],
+         "url": "https://github.com/gBoole01/express-ts-blog-api"
+      },
+      {
+         "name": "Favourite Dishes App",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Favourite Dishes application developed using TypeScript and React with Redux for state management and MaterialUI for the user interface. It allows users to reference and rate restaurants and their dishes.",
+         "highlights": [
+            "Implemented functionality for users to add a restaurant to the list",
+            "Implemented functionality for users to add a dish to a restaurant"
+         ],
+         "url": "https://github.com/gBoole01/react-ts-tdd-restaurant-rating-app"
+      },
+      {
+         "name": "Chat App",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Chat App developed using TypeScript, Node.js, Express, Socket.io, React, Bootstrap, and UUID. It enables users to communicate with their contacts by adding them, creating conversations, and sending/receiving messages.",
+         "highlights": [
+            "Implemented functionality for users to add contacts",
+            "Developed features allowing users to create conversations with one or multiple contacts",
+            "Enabled real-time messaging capabilities for users within conversations using websockets"
+         ],
+         "url": "https://github.com/gBoole01/react-express-ts-chat-app"
+      },
+      {
+         "name": "Countries API",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a REST API developed using PHP and Symfony. It provides endpoints to retrieve information about countries, including a route to fetch all countries and another route to get details about a specific country based on its ISO code.",
+         "highlights": [
+            "Implemented endpoints to retrieve information about countries",
+            "Utilized Symfony and API Platform for rapid API development"
+         ],
+         "url": "https://github.com/gBoole01/symfony-countries-rest-api"
+      },
+      {
+         "name": "Calculator",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Calculator application developed using TypeScript and React with Vite as the build tool. It features a classic calculator interface and utilizes the React hook `useReducer()` for state management.",
+         "highlights": [
+            "Implemented functionality to display digits on the calculator as they are entered",
+            "Developed the ability to handle operations, showing the entered digits above and waiting for new input",
+            "Enabled calculation results to be displayed when the equals button is pressed"
+         ],
+         "url": "https://github.com/gBoole01/react-ts-calculator"
+      },
+      {
+         "name": "Hangman Game",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Hangman Game application developed using TypeScript and React with Vite as the build tool. The game allows users to relax and enjoy the classic 'Hangman' game.",
+         "highlights": [
+            "Random word selection from a dictionary at the start of each new game",
+            "Display of correctly guessed letters within the word",
+            "Drawing of a new part of the hangman for each incorrect guess, leading to game over when the drawing is complete"
+         ],
+         "url": "https://github.com/gBoole01/react-ts-hangman-game"
+      },
+      {
+         "name": "Multistep Form",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Multistep Form application developed using TypeScript and React with Vite as the build tool. The form allows users to enter their personal information in a step-by-step manner, avoiding long forms that might discourage users.",
+         "highlights": [
+            "Implemented a 3-step form: 'Account', 'User', 'Postal Address'",
+            "Each step is a separate React component, maintaining the overall form state"
+         ],
+         "url": "https://github.com/gBoole01/react-ts-multistep-form"
+      },
+      {
+         "name": "Project Management App",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Project Management App developed using JavaScript, Node.js, Express, Mongoose, React, React Router, GraphQL, and Bootstrap. It allows users to centralize client information and manage project planning effectively.",
+         "highlights": [
+            "Developed functionality for users to add clients and associate projects with clients",
+            "Implemented features to modify the status of projects as they progress",
+            "Utilized a combination of technologies including Node.js, Express, Mongoose, React, and GraphQL"
+         ],
+         "url": "https://github.com/gBoole01/react-express-apollo-project-management-app"
+      },
+      {
+         "name": "Note Taking App",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a Note Taking application developed using TypeScript and React with Bootstrap for the user interface. It allows users to centralize and manage their notes efficiently.",
+         "highlights": [
+            "Implemented note creation and storage in the user's browser",
+            "Added functionality to tag notes for better organization",
+            "Enabled searching notes by name or tags"
+         ],
+         "url": "https://github.com/gBoole01/react-ts-note-taking-app"
+      },
+      {
+         "name": "Rock Paper Scissors Game",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a simple Rock Paper Scissors game developed using JavaScript and Vite. It allows users to play the classic game against the computer.",
+         "highlights": [
+            "Implemented functionality for users to play Rock Paper Scissors against the computer"
+         ],
+         "url": "https://github.com/gBoole01/simple-js-rock-paper-scissors-game"
+      },
+      {
+         "name": "Snake Game",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a simple Snake game developed using JavaScript and Vite. It allows users to play the classic Snake game.",
+         "highlights": [
+            "Implemented functionality for users to play Snake"
+         ],
+         "url": "https://github.com/gBoole01/simple-js-snake-game"
+      },
+      {
+         "name": "Speed Typing Game",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a speed typing game developed using JavaScript and Vite. It allows users to test their typing speed by typing a randomly fetched quote from the 'Quotable' API.",
+         "highlights": [
+            "Implemented functionality for users to test their typing speed",
+            "Utilized the 'Quotable' API to fetch random quotes",
+            "Incorporated a timer to measure typing speed",
+            "Provided visual cues to quickly identify typing errors"
+         ],
+         "url": "https://github.com/gBoole01/simple-js-speed-typing-game"
+      },
+      {
+         "name": "Weather App",
+         "startDate": "2022-01-01",
+         "endDate": "2022-01-01",
+         "description": "This project is a weather application developed using JavaScript and Vite. It allows users to check the upcoming weather forecast by fetching data from the Open Weather API.",
+         "highlights": [
+            "Implemented functionality for users to check the weather forecast",
+            "Utilized the Open Weather API to fetch weather data",
+            "Utilized Axios for making HTTP requests"
+         ],
+         "url": "https://github.com/gBoole01/simple-js-weather-app"
       }
    ],
    "interests": [

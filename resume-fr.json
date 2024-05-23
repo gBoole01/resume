@@ -1,3 +1,530 @@
 {
-  "TODO": "Translate this file to French."
+  "basics": {
+    "name": "gBoole01",
+    "label": "Développeur Full Stack",
+    "image": "https://g-boole-01.com/images/g-boole-01-avatar.png",
+    "email": null,
+    "phone": null,
+    "url": "https://g-boole-01.com",
+    "summary": "Développeur passionné avec une expertise dans les nouvelles technologies et une certification Opquast, doté de compétences en management. Aime mettre en œuvre et maintenir de bonnes pratiques de développement. Accorde également une grande importance à la qualité du Web.",
+    "location": {
+      "address": "Quelque part",
+      "postalCode": "33000",
+      "city": "Bordeaux",
+      "countryCode": "FR",
+      "region": "Nouvelle-Aquitaine"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "gBoole01",
+        "url": "https://github.com/gBoole01"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Mon courtier énergie",
+      "position": "Développeur Full Stack",
+      "url": "https://www.moncourtierenergie.com/",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "summary": "J'ai facilité la transformation des données de Salesforce pour améliorer l'expérience client numérique. Parallèlement, je gère les opérations AWS et maintiens les sites web de l'entreprise, garantissant un fonctionnement et des performances sans faille dans toutes les divisions.",
+      "highlights": [
+        "Transformation des données de l'entreprise Salesforce en utilisant la pile MERN pour améliorer l'expérience client numérique.",
+        "Mise en œuvre de pratiques DevOps pour une meilleure observabilité et automatisation.",
+        "Gestion des opérations AWS et maintenance des sites web de l'entreprise, garantissant un fonctionnement et des performances sans faille."
+      ]
+    },
+    {
+      "name": "Agence Kaizen",
+      "position": "Développeur Full Stack",
+      "url": "https://www.kaizen-agency.fr/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Gestion de la maintenance et du développement de nouvelles fonctionnalités pour une application de réservation de restaurant et un système CRM utilisant le MEAN stack, tout en impélementant le CQRS pattern sur un site Prestashop et en développant des modules personnalisés pour des sites Web CMS dans diverses industries.",
+      "highlights": [
+        "Maintenance et développement de nouvelles fonctionnalités pour une application de réservation de restaurant et un système CRM en JavaScript (MEAN stack)",
+        "Mise à niveau d'un site Web Prestashop (1.7) et de ses modules dédiés en utilisant le pattern CQRS (parrainage, présentation des domaines viticoles, ventes privées, etc.)",
+        "Maintenance et développement de modules PrestaShop sur divers sites de e-commerce",
+        "Maintenance et développement de modules WordPress sur différents sites (groupe immobilier, commerçants, etc.)"
+      ]
+    },
+    {
+      "name": "Agence Bonbay",
+      "position": "Développeur Full Stack",
+      "url": "https://www.bonbay.fr/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-01-01",
+      "summary": "Création d'une interface utilisateur réactive pour un logiciel de suivi de compétitions sportives en temps réel et développement de modules WordPress, optimisant ainsi l'expérience utilisateur et l'efficacité administrative pour une association sportive.",
+      "highlights": [
+        "Développement d'une application PHP/JavaScript pour le suivi en temps réel des résultats des compétitions sportives",
+        "Développement de modules WordPress pour un site Web d'association sportive, notamment la création de profils d'utilisateurs, la gestion des adhésions et le paiement des licences"
+      ]
+    },
+    {
+      "name": "McDonald's",
+      "position": "Manager d'équipe",
+      "url": "https://www.mcdonalds.fr/",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Démonstration de solides compétences en leadership et en organisation tout en supervisant les opérations quotidiennes, garantissant un service client optimal et une efficacité d'équipe dans un environnement rapide.",
+      "highlights": [
+        "Formation, motivation et supervision d'une équipe",
+        "Gestion des ouvertures et des fermetures de restaurant",
+        "Garantie de la qualité des produits et services",
+        "Garantie de la satisfaction client",
+        "Garantie de la conformité aux processus",
+        "Garantie de la propreté du restaurant"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CESI",
+      "url": "https://www.cesi.fr/",
+      "area": "Développement Logiciel",
+      "studyType": "Licence",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "courses": [
+        "Développement Web",
+        "Développement Mobile",
+        "UML",
+        "Architecture Logicielle",
+        "Test Driven Development",
+        "Gestion de Projet",
+        "Assurance Qualité",
+        "Cybersécurité",
+        "DevOps",
+        "Méthodologies Agiles",
+        "Compétences Managériales"
+      ]
+    },
+    {
+      "institution": "Talis Business School",
+      "url": "https://www.talis.community/",
+      "area": "Développement Logiciel",
+      "studyType": "Diplôme Technique de Deux Ans",
+      "startDate": "2020-01-01",
+      "endDate": "2019-01-01",
+      "courses": [
+        "Webdesign",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "PHP",
+        "SQL",
+        "Apache",
+        "WordPress"
+      ]
+    },
+    {
+      "institution": "Auto-apprentissage",
+      "url": "https://google.com/",
+      "area": "Développement Logiciel",
+      "studyType": "Auto-apprentissage",
+      "startDate": "2028-01-01",
+      "endDate": "while (âge++ < vie.length) { connaissances++ };",
+      "courses": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "SQL",
+        "Node.js",
+        "Express",
+        "Nest.js",
+        "MongoDB",
+        "React",
+        "Angular",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Linux",
+        "SEO",
+        "Webdesign",
+        "Machines Virtuelles",
+        "Test Driven Development",
+        "Cypress"
+      ]
+    },
+    {
+      "institution": "Lycée de Borda",
+      "url": "https://lyceedeborda.fr/",
+      "area": "Communication et Marketing",
+      "studyType": "Baccalauréat",
+      "startDate": "2012-01-01",
+      "endDate": "2012-01-01",
+      "courses": [
+        "Communication",
+        "Marketing",
+        "Gestion",
+        "Droit",
+        "Anglais",
+        "Espagnol"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Qualité Web",
+      "date": "20-01-01",
+      "issuer": "Opquast",
+      "url": "https://opquast.com/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Soft Skills",
+      "level": "N/A",
+      "keywords": [
+        "Communication",
+        "Leadership",
+        "Travail d'Équipe",
+        "Adaptabilité",
+        "Résolution de Problèmes",
+        "Gestion du Temps",
+        "Attention aux Détails",
+        "Pensée Critique"
+      ]
+    },
+    {
+      "name": "Qualité Web",
+      "level": "Expert",
+      "keywords": [
+        "SEO",
+        "Accessibilité",
+        "Performance",
+        "Sécurité",
+        "Confidentialité",
+        "Compatibilité",
+        "Maintenabilité",
+        "Bonnes Pratiques"
+      ]
+    },
+    {
+      "name": "CMS",
+      "level": "Intermédiaire Supérieur",
+      "keywords": [
+        "WordPress",
+        "PrestaShop"
+      ]
+    },
+    {
+      "name": "Développement Front-End",
+      "level": "Avancé",
+      "keywords": [
+        "SSR",
+        "SPA",
+        "PWA",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Angular",
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Bootstrap",
+        "Tailwind CSS",
+        "Sass",
+        "AntDesign",
+        "Material-UI"
+      ]
+    },
+    {
+      "name": "Développement Back-End",
+      "level": "Avancé",
+      "keywords": [
+        "Protocoles Web",
+        "REST API",
+        "GraphQL",
+        "WebSockets",
+        "Node.js",
+        "Express",
+        "Nest.js",
+        "PHP",
+        "Symfony"
+      ]
+    },
+    {
+      "name": "Bases de Données",
+      "level": "Avancé",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermédiaire",
+      "keywords": [
+        "Linux",
+        "Docker",
+        "GitHub Actions",
+        "GitLab CI/CD",
+        "Prometheus",
+        "Grafana",
+        "Nginx",
+        "Apache",
+        "Machines Virtuelles"
+      ]
+    },
+    {
+      "name": "Outils",
+      "level": "Avancé",
+      "keywords": [
+        "Canva",
+        "Figma",
+        "Git",
+        "GitHub",
+        "GitLab",
+        "VS Code",
+        "Vim",
+        "Zsh",
+        "Postman",
+        "Swagger",
+        "ESLint",
+        "Prettier",
+        "Jest",
+        "Cypress",
+        "DependaBot"
+      ]
+    },
+    {
+      "name": "Méthodologies",
+      "level": "Avancé",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue Maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Courant"
+    },
+    {
+      "language": "Espagnol",
+      "fluency": "Élémentaire"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Site Web Personnel",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "description": "Il s'agit de mon site web personnel construit avec Next.js en tant que générateur de site statique. Il utilise des fichiers Markdown pour publier divers contenus tels que des articles de blog, des projets, des solutions de kata, un CV, et inclut un formulaire de contact.",
+      "highlights": [
+        "Utilisation de Next.js en tant que générateur de site statique (SSG)",
+        "Implémentation d'une gestion de contenu basée sur des fichiers Markdown pour publier des articles de blog, des projets, des solutions de kata, un CV, etc.",
+        "Inclusion d'un formulaire de contact pour que les visiteurs puissent prendre contact"
+      ],
+      "url": "https://github.com/gBoole01/g-boole-01"
+    },
+    {
+      "name": "Scraper d'Emploi",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est un Scraper d'Emploi développé en utilisant JavaScript, Node.js et Puppeteer. Il automatise la recherche d'emploi en récupérant les offres d'emploi de différents sites web et les consolide dans un seul fichier JSON.",
+      "highlights": [
+        "Automatisation de la recherche d'emploi sur Indeed et LinkedIn pour les postes de 'Développeur Web' à Bordeaux et en télétravail en France",
+        "Génération d'un fichier JSON contenant toutes les offres d'emploi collectées au cours des 7 derniers jours"
+      ],
+      "url": "https://github.com/gBoole01/node-puppeteer-job-scraper"
+    },
+    {
+      "name": "API de Blog",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une API de Blog développée en utilisant TypeScript et Express. Elle permet aux utilisateurs de publier des articles de manière authentifiée et de lire des articles d'autres auteurs.",
+      "highlights": [
+        "Implémentation de l'authentification utilisateur et de la fonctionnalité de publication d'articles",
+        "Utilisation de TypeScript pour un typage fort et du framework Express pour le développement côté serveur"
+      ],
+      "url": "https://github.com/gBoole01/express-ts-blog-api"
+    },
+    {
+      "name": "Application de Plats Préférés",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Plats Préférés développée en utilisant TypeScript et React avec Redux pour la gestion d'état et MaterialUI pour l'interface utilisateur. Elle permet aux utilisateurs de référencer leurs restaurants et leurs plats favoris.",
+      "highlights": [
+        "Implémentation de la fonctionnalité permettant aux utilisateurs d'ajouter un restaurant à la liste",
+        "Implémentation de la fonctionnalité permettant aux utilisateurs d'ajouter un plat à un restaurant"
+      ],
+      "url": "https://github.com/gBoole01/react-ts-tdd-restaurant-rating-app"
+    },
+    {
+      "name": "Application de Messagerie",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Messagerie développée en utilisant TypeScript, Node.js, Express, Socket.io, React, Bootstrap et UUID. Elle permet aux utilisateurs de communiquer avec leurs contacts en les ajoutant, en créant des conversations et en envoyant/recevant des messages.",
+      "highlights": [
+        "Implémentation de la fonctionnalité permettant aux utilisateurs d'ajouter des contacts",
+        "Développement de fonctionnalités permettant aux utilisateurs de créer des conversations avec un ou plusieurs contacts",
+        "Activation des capacités de messagerie en temps réel pour les utilisateurs au sein des conversations en utilisant des websockets"
+      ],
+      "url": "https://github.com/gBoole01/react-express-ts-chat-app"
+    },
+    {
+      "name": "API de Pays",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une API REST développée en utilisant PHP et Symfony. Elle fournit des points de terminaison pour récupérer des informations sur les pays, y compris une route pour obtenir tous les pays et une autre route pour obtenir des détails sur un pays spécifique en fonction de son code ISO.",
+      "highlights": [
+        "Implémentation de points de terminaison pour récupérer des informations sur les pays",
+        "Utilisation de Symfony et API Platform pour un développement rapide de l'API"
+      ],
+      "url": "https://github.com/gBoole01/symfony-countries-rest-api"
+    },
+    {
+      "name": "Calculatrice",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Calculatrice développée en utilisant TypeScript et React avec Vite. Elle dispose d'une interface de calculatrice classique et utilise le hook React `useReducer()`.",
+      "highlights": [
+        "Implémentation de la fonctionnalité pour afficher les chiffres sur la calculatrice au fur et à mesure de leur saisie",
+        "Développement de la capacité à gérer les opérations, affichant les chiffres saisis au-dessus et attendant une nouvelle saisie",
+        "Activation de l'affichage des résultats des calculs lorsque le bouton égal est pressé"
+      ],
+      "url": "https://github.com/gBoole01/react-ts-calculator"
+    },
+    {
+      "name": "Jeu du Pendu",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Jeu du Pendu développée en utilisant TypeScript et React avec Vite. Le jeu permet aux utilisateurs de se détendre et de profiter du jeu classique du 'Pendu'.",
+      "highlights": [
+        "Sélection aléatoire d'un mot dans un dictionnaire au début de chaque nouvelle partie",
+        "Affichage des lettres correctement devinées dans le mot",
+        "Dessin d'une nouvelle partie du pendu pour chaque devinette incorrecte, menant à la fin du jeu lorsque le dessin est complet"
+      ],
+      "url": "https://github.com/gBoole01/react-ts-hangman-game"
+    },
+    {
+      "name": "Formulaire Multi-étape",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Formulaire Multi-étape développée en utilisant TypeScript et React avec Vite. Le formulaire permet aux utilisateurs de saisir leurs informations personnelles de manière étape par étape, évitant ainsi les longs formulaires qui pourraient décourager les utilisateurs.",
+      "highlights": [
+        "Implémentation d'un formulaire en 3 étapes : 'Compte', 'Utilisateur', 'Adresse postale'",
+        "Chaque étape est un composant React séparé, maintenant l'état global du formulaire"
+      ],
+      "url": "https://github.com/gBoole01/react-ts-multistep-form"
+    },
+    {
+      "name": "Application de Gestion de Projets",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Gestion de Projets développée en utilisant JavaScript, Node.js, Express, Mongoose, React, React Router, GraphQL et Bootstrap. Elle permet aux utilisateurs de centraliser les informations sur les clients et de gérer efficacement la planification des projets.",
+      "highlights": [
+        "Développement de fonctionnalités permettant aux utilisateurs d'ajouter des clients et d'associer des projets à des clients",
+        "Implémentation de fonctionnalités pour modifier l'état des projets au fur et à mesure de leur avancement",
+        "Utilisation d'une combinaison de technologies incluant Node.js, Express, Mongoose, React et GraphQL"
+      ],
+      "url": "https://github.com/gBoole01/react-express-apollo-project-management-app"
+    },
+    {
+      "name": "Application de Prise de Notes",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application de Prise de Notes développée en utilisant TypeScript et React avec Bootstrap pour l'interface utilisateur. Elle permet aux utilisateurs de centraliser et de gérer leurs notes efficacement.",
+      "highlights": [
+        "Implémentation de la création et du stockage de notes dans le navigateur de l'utilisateur",
+        "Ajout de fonctionnalités pour taguer les notes pour une meilleure organisation",
+        "Activation de la recherche de notes par nom ou tags"
+      ],
+      "url": "https://github.com/gBoole01/react-ts-note-taking-app"
+    },
+    {
+      "name": "Jeu de Pierre-Papier-Ciseaux",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est un simple jeu de Pierre-Papier-Ciseaux développé en utilisant JavaScript et Vite. Il permet aux utilisateurs de jouer au jeu classique contre l'ordinateur.",
+      "highlights": [
+        "Implémentation de fonctionnalités permettant aux utilisateurs de jouer à Pierre-Papier-Ciseaux contre l'ordinateur"
+      ],
+      "url": "https://github.com/gBoole01/simple-js-rock-paper-scissors-game"
+    },
+    {
+      "name": "Jeu de Serpent",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est un simple jeu de Serpent développé en utilisant JavaScript et Vite. Il permet aux utilisateurs de jouer au jeu classique du Serpent.",
+      "highlights": [
+        "Implémentation de fonctionnalités permettant aux utilisateurs de jouer au Serpent"
+      ],
+      "url": "https://github.com/gBoole01/simple-js-snake-game"
+    },
+    {
+      "name": "Jeu de Dactylographie",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est un jeu de dactylographie développé en utilisant JavaScript et Vite. Il permet aux utilisateurs de tester leur vitesse de frappe en tapant une citation tirée au hasard de l'API 'Quotable'.",
+      "highlights": [
+        "Implémentation de fonctionnalités permettant aux utilisateurs de tester leur vitesse de frappe",
+        "Utilisation de l'API 'Quotable' pour récupérer des citations aléatoires",
+        "Incorporation d'une minuterie pour mesurer la vitesse de frappe",
+        "Fourniture d'indices visuels pour identifier rapidement les erreurs de frappe"
+      ],
+      "url": "https://github.com/gBoole01/simple-js-speed-typing-game"
+    },
+    {
+      "name": "Application Météo",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "description": "Ce projet est une application météo développée en utilisant JavaScript et Vite. Elle permet aux utilisateurs de vérifier les prévisions météorologiques à venir en récupérant des données auprès de l'API Open Weather.",
+      "highlights": [
+        "Implémentation de fonctionnalités permettant aux utilisateurs de vérifier les prévisions météorologiques",
+        "Utilisation de l'API Open Weather pour récupérer des données météorologiques",
+        "Utilisation d'Axios pour effectuer des requêtes HTTP"
+      ],
+      "url": "https://github.com/gBoole01/simple-js-weather-app"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musique",
+      "keywords": [
+        "Musique assistée par ordinateur",
+        "EDM"
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+        "Cyclisme",
+        "Course à pied"
+      ]
+    },
+    {
+      "name": "Lecture",
+      "keywords": [
+        "Livres de programmation"
+      ]
+    },
+    {
+      "name": "Technologie",
+      "keywords": [
+        "Nouvelles technologies",
+        "Intelligence artificielle",
+        "Big data"
+      ]
+    },
+    {
+      "name": "Voyage",
+      "keywords": [
+        "Europe"
+      ]
+    }
+  ]
 }
